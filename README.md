@@ -4,7 +4,7 @@ A free, premium-feeling, **completely ad-free** online games site — built for 
 Every game is built from scratch: no third-party ad networks, no preroll videos, no
 trackers, no signup. Just play.
 
-Live at: **https://hamzaali14.github.io/danogames/**
+Live at: **https://hexxcore.github.io/danogames/**
 
 ## What's already done
 
@@ -52,7 +52,7 @@ directly also works since game data loads as a plain `<script>` tag.
 
 ## Deploying changes
 
-The site is already live on GitHub Pages under the `hamzaali14/danogames` repo. To
+The site is already live on GitHub Pages under the `hexxcore/danogames` repo. To
 publish any future changes:
 
 ```
